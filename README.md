@@ -34,3 +34,6 @@ Now that the problem has been identified, appropriate action can be taken.
 Is this film appropriate for small children?
 
 这部电影适合小孩子看吗？
+
+
+------------------------------------------------------------------------------------------------------------------------------
